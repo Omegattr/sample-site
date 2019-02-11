@@ -3,5 +3,5 @@
 ## URL
 https://omegattr.github.io/sample-site/
 
-![サイトイメージ](https://omegattr.github.io/sample-site/sample-site_screen_shot.png)
+![サイトイメージ](https://github.com/Omegattr/sample-site/blob/master/sample-site_screen_shot.png)
 イメージ
